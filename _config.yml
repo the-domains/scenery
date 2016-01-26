@@ -1,0 +1,28 @@
+name: scenery
+favicon: null
+layout_spectrum: 0.4171455935575068
+typography_spectrum: 0.5207776413299143
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.09557224996387959
+  lightness: 0.41899563279002905
+  saturation: 0.2508126313332468
+  rhythmicContrast: 0.144495761487633
+purpose: []
